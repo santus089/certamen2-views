@@ -1,0 +1,15 @@
+$light:#f3e9d4;
+$dark:#030000;
+$primary:#633406;
+$secondary:#a5d2c4;
+$info:#1d9b4b;
+$success:#5aad0e;
+$warning:#ffc369;
+$danger:#f60563;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+$font-family-base: 'Roboto', sans-serif;
+$font-size-root: 16px;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
